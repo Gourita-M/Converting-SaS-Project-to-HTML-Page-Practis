@@ -1,0 +1,9 @@
+.text{
+    size: 100px;
+    text-align: center;
+    text-decoration: dotted;
+}
+#login{
+    text-align: center;
+    align-items: center;
+}
